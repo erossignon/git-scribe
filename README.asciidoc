@@ -49,11 +49,13 @@ Usage
 Check if you have everything installed properly for local generation with `check`:
 
     $ git scribe check
+----
     asciidoc - ok
     xsltproc - ok
     a2x      - ok
     highlighting - ok
     fop      - ok
+----
 
 If you are on OSX and using Homebrew http://mxcl.github.com/homebrew/ you can install dependencies easily:
 
